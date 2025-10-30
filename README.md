@@ -13,3 +13,7 @@ A simple and elegant **HTML table** styled with **CSS** for clean, modern data p
 - HTML5  
 - CSS3  
 - Google Fonts (Inter)
+
+## 👤 Author  
+**Goga Gabelia**  
+🌐 Aspiring Web Developer building clean and modern web components.
